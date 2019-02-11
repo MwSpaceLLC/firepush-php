@@ -1,0 +1,23 @@
+{
+  "name": "agent/firepush-php",
+  "description": "A PHP package for send real time push notification in client user agent with firebase",
+  "autoload": {
+    "psr-4": {
+      "Agent\\Firepush\\": "src/"
+    }
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Aleksandr Ivanovitch",
+      "email": "alex@mwspace.com",
+      "homepage": "https://mwspace.com",
+      "role": "CTO"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "*",
+    "symfony/var-dumper": "*",
+    "php": "^7.1"
+  }
+}
