@@ -1,4 +1,4 @@
-# Push Message <img src="https://firebase.google.com/_static/83a13d8b48/images/firebase/lockup.png" width="100">
+# Push Message <img src="https://www.gstatic.com/devrel-devsite/va3a0eb1ff00a004a87e2f93101f27917d794beecfd23556fc6d8627bba2ff3cf/firebase/images/lockup.png" width="100">
 > Small PHP library for send [Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/)
 
 PHP Version  | Status  | Require
